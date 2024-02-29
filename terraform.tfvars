@@ -1,5 +1,5 @@
 vm_name = "your vm name here"
-proxmox_node = "your proxmox node here" #just the resolvable address ip or name. 
+proxmox_node = "your proxmox node here" #just the resolvable name, ip address or fqdn will not work 
 vm_bios = "ovmf"
 vm_template = "your-vm-template-here"
 memory_mb = "16384"
